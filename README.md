@@ -10,12 +10,7 @@ Static website for **prizmmarketing.org**. It's plain HTML and CSS, so there's n
 - `CNAME`: tells GitHub Pages to serve the site at prizmmarketing.org
 - `.github/workflows/pages.yml`: deploys to GitHub Pages on every push to `main`
 
-## Placeholders to replace
+## Still to set up
 
-Search `index.html` for these:
-
-- `[Your name]` and the About paragraph in brackets
-- `(555) 555-5555` / `+15555555555`: phone number
-- `hello@prizmmarketing.org`: email
-- `[Your city, ST]`: where you're based
-- `YOUR_FORM_ID`: form service ID so project inquiries reach your inbox
+- `YOUR_FORM_ID`: form service ID so inquiries reach your inbox
+- Portrait: replace the "J" in `.portrait` with `<img src="assets/jolie.webp" alt="Jolie Nicholson">`
